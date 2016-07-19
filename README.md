@@ -1,2 +1,2 @@
 # Atmega328
-Atmega328P-PU Interrupts and pulse counting.
+Atmega328P-PU Interrupts. Nothing useful here...
